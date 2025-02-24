@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">Hi 👋! My name is Raghuraj and I'm a full-stack Web Developer</p>
+<h1 align="left">Hi 👋! My name is Raghuraj and I'm a full-stack Web Developer</h1>
 
 ###
 
