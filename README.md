@@ -65,4 +65,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/raghurajpratapsingh28?cardType=octocat&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![Raghurajpratapsingh28's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghurajpratapsingh28&theme=dark&hide_border=true)
+
+![raghurajpratapsingh28's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghurajpratapsingh28&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 ###
