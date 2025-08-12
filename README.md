@@ -69,7 +69,8 @@
 </div>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/raghurajpratapsingh28?cardType=octocat&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
-
+ 
+![](https://nirzak-streak-stats.vercel.app/?user=raghurajpratapsingh28&theme=dark&hide_border=false)
 
 
 ![raghurajpratapsingh28's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghurajpratapsingh28&theme=dark&show_icons=true&hide_border=true&layout=compact)
