@@ -4,6 +4,9 @@
 </div>
 
 ###
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=raghurajpratapsingh28&label=Profile%20views&color=ff8c00&style=flat-square" alt="raghurajpratapsingh28" /> 
+</p>
 
 <br clear="both">
 
