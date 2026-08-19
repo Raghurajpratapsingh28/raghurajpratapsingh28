@@ -66,6 +66,52 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
+
+<!-- Real-time GitHub Stats using custom GitHub Actions workflow -->
+<h2>📊 Live GitHub Stats</h2>
+
+<!-- This section uses a custom GitHub Actions workflow to generate accurate stats -->
+<div align="center">
+  <!-- Custom Stats Card from custom API or GitHub Actions generated SVG -->
+  <picture>
+    <source 
+      srcset="https://raw.githubusercontent.com/raghurajpratapsingh28/github-stats/master/generated/overview.svg#gh-dark-mode-only"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://raw.githubusercontent.com/raghurajpratapsingh28/github-stats/master/generated/overview.svg#gh-light-mode-only"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://raw.githubusercontent.com/raghurajpratapsingh28/github-stats/master/generated/overview.svg" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://raw.githubusercontent.com/raghurajpratapsingh28/github-stats/master/generated/languages.svg#gh-dark-mode-only"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://raw.githubusercontent.com/raghurajpratapsingh28/github-stats/master/generated/languages.svg#gh-light-mode-only"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://raw.githubusercontent.com/raghurajpratapsingh28/github-stats/master/generated/languages.svg" />
+  </picture>
+</div>
+
+<!-- Weekly Contribution Graph with animation -->
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raghurajpratapsingh28&custom_title=Alex's%20Contribution%20Graph&bg_color=0D1117&color=3D67FF&line=3D67FF&point=3D67FF&area=true&hide_border=true" alt="Activity Graph">
+</div>
+
+<!-- Animated commit streak with accurate API data -->
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=raghurajpratapsingh28&background=0D1117&stroke=3D67FF&ring=3D67FF&fire=3D67FF&currStreakNum=FFFFFF&currStreakLabel=3D67FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="Contribution Streak" />
+</div>
+
+<!-- 3D Contribution Calendar -->
+<div align="center">
+
+  <!-- want to edit -->
+
 <h3 align="left">Support:</h3>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/raghurajpratapsingh28?cardType=octocat&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
